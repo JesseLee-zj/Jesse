@@ -1,2 +1,4 @@
 # Jesse
-This is a repository for JesseLee's open source code
+开发日志
+************************************************
+2019-12-11 创建了新功能开发分支
